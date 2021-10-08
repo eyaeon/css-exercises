@@ -1,0 +1,19 @@
+.similar {
+    background-color: rgb(221, 163, 174);
+    font-family: Verdana, sans-serif;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#four {
+    background-color: hsl(120, 54%, 37%, 0.8);
+    font-size: 24px;
+    font-weight: bold;
+}
