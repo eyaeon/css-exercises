@@ -1,0 +1,22 @@
+div .text {
+    background-color: rgb(228, 228, 96);
+    color: #f00;
+    font-size: 20px;
+    text-align: center;
+}
+
+/*
+.container .text {
+    background-color: rgb(228, 228, 96);
+    color: #f00;
+    font-size: 20px;
+    text-align: center;
+}
+
+div p{
+    background-color: rgb(228, 228, 96);
+    color: #f00;
+    font-size: 20px;
+    text-align: center;
+}
+*/
